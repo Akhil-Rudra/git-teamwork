@@ -1,0 +1,1 @@
+Verify application health after every deployment.
